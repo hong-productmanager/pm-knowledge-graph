@@ -3,7 +3,7 @@ tags: [strategy, concept]
 type: concept
 branch: 01 - Strategy & Vision
 related: ["Product Strategy", "North Star Metric", "OKRs"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Product Vision

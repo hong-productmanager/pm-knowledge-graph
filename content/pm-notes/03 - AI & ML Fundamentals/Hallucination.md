@@ -3,7 +3,7 @@ tags: [ai, risk]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["RAG (Retrieval Augmented Generation)", "Transparency to Users", "Confidence Indicators"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Hallucination

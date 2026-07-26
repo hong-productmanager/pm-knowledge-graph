@@ -3,7 +3,7 @@ tags: [ux, ai]
 type: pattern
 branch: 09 - AI UX Patterns
 related: ["Confidence Indicators", "Transparency to Users", "Hallucination"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Reasoning Disclosure

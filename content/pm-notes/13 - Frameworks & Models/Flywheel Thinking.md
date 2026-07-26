@@ -3,7 +3,7 @@ tags: [strategy, growth, ai]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Data as a Product Asset", "Feedback Loops", "Competitive Landscape"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Flywheel Thinking

@@ -3,7 +3,7 @@ tags: [execution, risk, ux]
 type: pattern
 branch: 06 - Execution & Delivery
 related: ["Graceful Degradation", "Release Management", "Hallucination"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Fallback Logic

@@ -3,7 +3,7 @@ tags: [gtm, trust]
 type: concept
 branch: 10 - GTM & Growth
 related: ["Transparency to Users", "User Trust Metrics", "Responsible AI"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Trust & Credibility

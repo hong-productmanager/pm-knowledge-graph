@@ -3,7 +3,7 @@ tags: [data, compliance]
 type: concept
 branch: 04 - Data Strategy
 related: ["Data Quality", "EU AI Act", "Transparency to Users"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Privacy & Compliance

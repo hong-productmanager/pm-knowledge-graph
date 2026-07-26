@@ -3,7 +3,7 @@ tags: [metrics, experimentation]
 type: concept
 branch: 07 - Metrics & Analytics
 related: ["Experimentation", "Online vs Offline Evaluation", "AI Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Multi-armed Bandits

@@ -3,7 +3,7 @@ tags: [communication, data]
 type: concept
 branch: 14 - Tools & Artifacts
 related: ["Product Health Metrics", "Working with Data Scientists", "Visual Communication"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Data Storytelling

@@ -3,7 +3,7 @@ tags: [execution, ux, discovery]
 type: pattern
 branch: 06 - Execution & Delivery
 related: ["AI PRD", "Research MOC"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # User Story Mapping

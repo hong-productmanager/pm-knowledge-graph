@@ -3,7 +3,7 @@ tags: [ai, operations]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["Feedback Loops", "AI Metrics", "Technical Debt in AI"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Model Drift & Degradation

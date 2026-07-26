@@ -3,7 +3,7 @@ tags: [strategy, commercial]
 type: concept
 branch: 01 - Strategy & Vision
 related: ["Business Models", "Competitive Landscape", "Product Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Market Sizing

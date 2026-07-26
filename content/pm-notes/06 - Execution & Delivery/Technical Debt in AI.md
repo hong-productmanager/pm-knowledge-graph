@@ -3,7 +3,7 @@ tags: [execution, technical, risk]
 type: concept
 branch: 06 - Execution & Delivery
 related: ["Model Drift & Degradation", "Data Quality", "Release Management"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Technical Debt in AI

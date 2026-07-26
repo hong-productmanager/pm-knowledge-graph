@@ -3,7 +3,7 @@ tags: [artifact, ai]
 type: artifact
 branch: 14 - Tools & Artifacts
 related: ["Red Team Report", "Datasheet for Datasets", "Bias & Fairness"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Model Card

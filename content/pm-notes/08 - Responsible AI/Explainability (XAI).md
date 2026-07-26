@@ -3,7 +3,7 @@ tags: [responsible-ai, technical]
 type: concept
 branch: 08 - Responsible AI
 related: ["Transparency to Users", "EU AI Act", "Hallucination"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Explainability (XAI)

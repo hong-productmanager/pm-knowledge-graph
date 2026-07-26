@@ -3,7 +3,7 @@ tags: [prioritization, framework, roadmap]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Product Roadmap", "Trade-off Frameworks", "RICE Prioritization"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Value vs Complexity

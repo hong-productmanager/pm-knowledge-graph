@@ -3,7 +3,7 @@ tags: [research, ux]
 type: concept
 branch: 02 - Research & Discovery
 related: ["User Interviews", "Surveys", "Continuous Discovery"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Usability Testing

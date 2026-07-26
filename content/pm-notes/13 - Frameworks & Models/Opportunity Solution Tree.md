@@ -3,7 +3,7 @@ tags: [framework, discovery, research]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["North Star Framework", "Research MOC"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Opportunity Solution Tree

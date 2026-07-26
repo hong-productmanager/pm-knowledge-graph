@@ -3,7 +3,7 @@ tags: [ai, technical]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["Build vs Buy vs Fine-tune", "Cost Metrics", "AI Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Inference & Latency

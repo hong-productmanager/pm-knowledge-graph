@@ -3,7 +3,7 @@ tags: [research, framework, strategy]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["User Personas", "Pain Points", "Opportunity Solution Tree"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Jobs To Be Done (JTBD)

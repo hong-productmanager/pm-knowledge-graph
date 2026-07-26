@@ -3,7 +3,7 @@ tags: [strategy, research]
 type: concept
 branch: 01 - Strategy & Vision
 related: ["Product Strategy", "Market Sizing", "Data as a Product Asset"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Competitive Landscape

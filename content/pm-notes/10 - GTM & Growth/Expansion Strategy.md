@@ -3,7 +3,7 @@ tags: [gtm, strategy]
 type: strategy
 branch: 10 - GTM & Growth
 related: ["Product Strategy", "Market Sizing", "Platform Thinking"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Expansion Strategy

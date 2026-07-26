@@ -3,7 +3,7 @@ tags: [metrics, ai]
 type: metric
 branch: 07 - Metrics & Analytics
 related: ["Model Evaluation (Offline)", "User Trust Metrics", "Cost Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI Metrics

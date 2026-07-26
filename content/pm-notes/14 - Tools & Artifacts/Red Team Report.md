@@ -3,7 +3,7 @@ tags: [artifact, safety]
 type: artifact
 branch: 14 - Tools & Artifacts
 related: ["AI Safety & Guardrails", "Model Card", "Hallucination"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Red Team Report

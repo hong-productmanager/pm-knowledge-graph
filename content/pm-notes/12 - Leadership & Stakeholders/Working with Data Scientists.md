@@ -3,7 +3,7 @@ tags: [leadership, technical]
 type: concept
 branch: 12 - Leadership & Stakeholders
 related: ["Aha Moment", "Product Health Metrics", "Data Quality"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Working with Data Scientists

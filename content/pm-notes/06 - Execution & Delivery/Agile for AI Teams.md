@@ -3,7 +3,7 @@ tags: [execution, agile, process]
 type: framework
 branch: 06 - Execution & Delivery
 related: ["Technical Debt in AI", "Online vs Offline Evaluation", "Model Drift & Degradation"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Agile for AI Teams

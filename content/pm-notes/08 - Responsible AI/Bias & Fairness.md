@@ -3,7 +3,7 @@ tags: [responsible-ai, risk]
 type: concept
 branch: 08 - Responsible AI
 related: ["Data Quality", "Transparency to Users", "Bias & Fairness"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Bias & Fairness

@@ -3,7 +3,7 @@ tags: [data, strategy]
 type: concept
 branch: 04 - Data Strategy
 related: ["Feedback Loops", "Data Pipelines", "Competitive Landscape"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Data as a Product Asset

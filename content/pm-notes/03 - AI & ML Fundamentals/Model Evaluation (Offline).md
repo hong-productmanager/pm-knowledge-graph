@@ -3,7 +3,7 @@ tags: [ai, metrics]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["AI Metrics", "Online vs Offline Evaluation", "Types of ML Problems"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Model Evaluation (Offline)

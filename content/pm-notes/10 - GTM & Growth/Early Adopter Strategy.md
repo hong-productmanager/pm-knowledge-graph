@@ -3,7 +3,7 @@ tags: [gtm, growth]
 type: strategy
 branch: 10 - GTM & Growth
 related: ["Product-Market Fit (PMF)", "Crossing the Chasm", "Trust & Credibility"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Early Adopter Strategy

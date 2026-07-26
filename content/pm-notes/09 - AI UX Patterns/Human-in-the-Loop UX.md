@@ -3,7 +3,7 @@ tags: [ux, ai]
 type: pattern
 branch: 09 - AI UX Patterns
 related: ["Copilot vs Autopilot", "User Trust Metrics", "Responsible AI"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Human-in-the-Loop UX

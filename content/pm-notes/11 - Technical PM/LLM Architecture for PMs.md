@@ -3,7 +3,7 @@ tags: [technical, ai]
 type: concept
 branch: 11 - Technical PM
 related: ["Large Language Models (LLMs)", "Inference & Latency", "Model Selection Criteria"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # LLM Architecture for PMs

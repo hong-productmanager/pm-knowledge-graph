@@ -3,7 +3,7 @@ tags: [ai, technical]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["Large Language Models (LLMs)", "Copilot vs Autopilot", "Fallback Logic"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI Agents & Tool Use

@@ -3,7 +3,7 @@ tags: [strategy, process, ai]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Continuous Discovery", "Experimentation", "Opportunity Solution Tree"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Lean Startup for AI

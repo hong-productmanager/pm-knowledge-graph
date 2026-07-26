@@ -3,7 +3,7 @@ tags: [gtm, strategy]
 type: concept
 branch: 10 - GTM & Growth
 related: ["Surveys", "North Star Metric", "Early Adopter Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Product-Market Fit (PMF)

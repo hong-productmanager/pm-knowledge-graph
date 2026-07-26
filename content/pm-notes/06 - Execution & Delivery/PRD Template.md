@@ -3,7 +3,7 @@ tags: [execution, template, artifact]
 type: template
 branch: 06 - Execution & Delivery
 related: ["AI PRD", "Tech Specs for PMs", "User Stories & Acceptance Criteria"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # PRD Template

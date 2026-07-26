@@ -3,7 +3,7 @@ tags: [communication, soft-skills]
 type: concept
 branch: 14 - Tools & Artifacts
 related: ["Technical Documentation", "Stakeholder Communication", "Managing Up"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Writing for Stakeholders

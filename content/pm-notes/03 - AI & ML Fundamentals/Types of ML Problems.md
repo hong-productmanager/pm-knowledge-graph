@@ -3,7 +3,7 @@ tags: [ai, technical]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["Model Evaluation (Offline)", "AI-Specific Prioritization", "Build vs Buy vs Fine-tune"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Types of ML Problems

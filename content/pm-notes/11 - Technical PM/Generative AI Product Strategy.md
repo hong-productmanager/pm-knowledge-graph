@@ -3,7 +3,7 @@ tags: [strategy, ai, roadmap]
 type: framework
 branch: 11 - Technical PM
 related: ["Product Strategy", "Build vs Buy vs Fine-tune"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Generative AI Product Strategy

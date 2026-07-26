@@ -3,7 +3,7 @@ tags: [research, quantitative]
 type: concept
 branch: 02 - Research & Discovery
 related: ["User Interviews", "Usability Testing", "Product Health Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Surveys

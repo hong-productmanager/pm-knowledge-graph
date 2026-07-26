@@ -3,7 +3,7 @@ tags: [metrics]
 type: metric
 branch: 07 - Metrics & Analytics
 related: ["Aha Moment", "North Star Metric", "Experimentation"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Product Health Metrics

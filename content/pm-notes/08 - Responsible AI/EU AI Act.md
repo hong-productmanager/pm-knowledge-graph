@@ -3,7 +3,7 @@ tags: [responsible-ai, compliance]
 type: concept
 branch: 08 - Responsible AI
 related: ["Privacy & Compliance", "Transparency to Users", "Explainability (XAI)"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # EU AI Act

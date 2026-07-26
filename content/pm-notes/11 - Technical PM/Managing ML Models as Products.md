@@ -3,7 +3,7 @@ tags: [technical, ai, lifecycle]
 type: framework
 branch: 11 - Technical PM
 related: ["Technical Debt in AI", "Model Drift & Degradation"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Managing ML Models as Products

@@ -3,7 +3,7 @@ tags: [research, process]
 type: framework
 branch: 02 - Research & Discovery
 related: ["User Interviews", "Pain Points", "Opportunity Solution Tree"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Continuous Discovery

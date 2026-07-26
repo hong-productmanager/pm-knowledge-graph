@@ -3,7 +3,7 @@ tags: [responsible-ai, safety]
 type: concept
 branch: 08 - Responsible AI
 related: ["Transparency to Users", "Hallucination", "Red Team Report"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI Safety & Guardrails

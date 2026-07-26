@@ -3,7 +3,7 @@ tags: [leadership, soft-skills]
 type: concept
 branch: 12 - Leadership & Stakeholders
 related: ["Stakeholder Communication", "OKRs", "Product Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Managing Up

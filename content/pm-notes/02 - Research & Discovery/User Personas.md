@@ -3,7 +3,7 @@ tags: [research, concept]
 type: concept
 branch: 02 - Research & Discovery
 related: ["Customer Segments", "Jobs To Be Done (JTBD)", "User Interviews"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # User Personas

@@ -3,7 +3,7 @@ tags: [technical, soft-skills]
 type: concept
 branch: 11 - Technical PM
 related: ["Technical Documentation", "Tech Specs for PMs", "Managing ML Models as Products"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # PM-Engineering Collaboration

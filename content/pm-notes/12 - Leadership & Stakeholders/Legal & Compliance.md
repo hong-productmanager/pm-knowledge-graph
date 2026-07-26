@@ -3,7 +3,7 @@ tags: [leadership, compliance]
 type: concept
 branch: 12 - Leadership & Stakeholders
 related: ["Privacy & Compliance", "EU AI Act", "Responsible AI"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Legal & Compliance

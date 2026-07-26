@@ -3,7 +3,7 @@ tags: [execution, process, ai]
 type: pattern
 branch: 06 - Execution & Delivery
 related: ["Agile for AI Teams", "Online vs Offline Evaluation", "Graceful Degradation"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Release Management

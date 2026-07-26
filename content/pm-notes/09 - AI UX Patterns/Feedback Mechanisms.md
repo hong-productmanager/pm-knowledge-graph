@@ -3,7 +3,7 @@ tags: [ux, ai]
 type: pattern
 branch: 09 - AI UX Patterns
 related: ["Feedback Loops", "Data Collection & Labeling", "User Trust Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Feedback Mechanisms

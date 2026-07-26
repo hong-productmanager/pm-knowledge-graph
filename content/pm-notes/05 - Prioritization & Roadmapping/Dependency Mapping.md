@@ -3,7 +3,7 @@ tags: [prioritization, execution]
 type: concept
 branch: 05 - Prioritization & Roadmapping
 related: ["Product Roadmap", "AI PRD", "Data Pipelines"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Dependency Mapping

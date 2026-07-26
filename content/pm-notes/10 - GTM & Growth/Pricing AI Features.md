@@ -3,7 +3,7 @@ tags: [gtm, ai]
 type: framework
 branch: 10 - GTM & Growth
 related: ["Cost Metrics", "Business Models", "AI Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Pricing AI Features

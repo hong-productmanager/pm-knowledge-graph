@@ -3,7 +3,7 @@ tags: [research, discovery]
 type: concept
 branch: 02 - Research & Discovery
 related: ["Surveys", "Continuous Discovery", "Pain Points"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # User Interviews

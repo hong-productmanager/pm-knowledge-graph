@@ -3,7 +3,7 @@ tags: [framework, metrics, strategy]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Strategy MOC", "Product Health Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # North Star Framework

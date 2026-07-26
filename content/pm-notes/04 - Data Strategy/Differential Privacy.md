@@ -3,7 +3,7 @@ tags: [data, privacy]
 type: concept
 branch: 04 - Data Strategy
 related: ["Privacy & Compliance", "Data Collection & Labeling", "Responsible AI"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Differential Privacy

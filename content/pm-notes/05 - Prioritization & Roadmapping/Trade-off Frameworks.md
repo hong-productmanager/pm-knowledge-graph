@@ -3,7 +3,7 @@ tags: [prioritization, decision]
 type: framework
 branch: 05 - Prioritization & Roadmapping
 related: ["AI-Specific Prioritization", "Build vs Buy vs Fine-tune", "Cost Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Trade-off Frameworks

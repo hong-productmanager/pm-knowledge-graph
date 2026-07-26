@@ -3,7 +3,7 @@ tags: [framework, growth]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Product Health Metrics", "AI UX MOC"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Hook Model

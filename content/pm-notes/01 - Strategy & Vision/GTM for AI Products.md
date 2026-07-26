@@ -3,7 +3,7 @@ tags: [strategy, gtm]
 type: concept
 branch: 01 - Strategy & Vision
 related: ["Positioning AI Features", "Trust & Credibility", "Early Adopter Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # GTM for AI Products

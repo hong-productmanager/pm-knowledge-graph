@@ -3,7 +3,7 @@ tags: [communication, soft-skills]
 type: concept
 branch: 14 - Tools & Artifacts
 related: ["Strategic Storytelling", "Stakeholder Communication", "Visual Communication"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Presentation Skills

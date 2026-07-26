@@ -3,7 +3,7 @@ tags: [artifact, process]
 type: artifact
 branch: 14 - Tools & Artifacts
 related: ["AI PRD", "Trade-off Frameworks", "Stakeholder Communication"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Decision Log

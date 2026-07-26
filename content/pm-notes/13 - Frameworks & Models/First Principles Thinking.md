@@ -3,7 +3,7 @@ tags: [strategy, framework]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Jobs To Be Done (JTBD)", "Opportunity Solution Tree", "Product Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # First Principles Thinking

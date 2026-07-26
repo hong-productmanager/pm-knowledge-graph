@@ -3,7 +3,7 @@ tags: [research, discovery]
 type: concept
 branch: 02 - Research & Discovery
 related: ["User Interviews", "Jobs To Be Done (JTBD)", "Opportunity Solution Tree"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Pain Points

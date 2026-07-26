@@ -4,7 +4,7 @@ type: concept
 branch: 11 - Technical PM
 related: ["Build vs Buy vs Fine-tune", "Model Selection Criteria", 
           "LLM Architecture for PMs"]
-created: 2026-05-06
+created: 2026-07-26
 ---
 
 # Vendor Evaluation

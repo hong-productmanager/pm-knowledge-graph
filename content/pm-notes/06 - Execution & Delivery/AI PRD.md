@@ -3,7 +3,7 @@ tags: [execution, ai, documentation]
 type: artifact
 branch: 06 - Execution & Delivery
 related: ["Model Evaluation (Offline)", "User Stories & Acceptance Criteria", "AI Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI PRD

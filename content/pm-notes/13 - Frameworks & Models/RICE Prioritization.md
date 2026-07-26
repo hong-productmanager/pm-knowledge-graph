@@ -3,7 +3,7 @@ tags: [framework, prioritization]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Product Roadmap", "Product Health Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # RICE Prioritization

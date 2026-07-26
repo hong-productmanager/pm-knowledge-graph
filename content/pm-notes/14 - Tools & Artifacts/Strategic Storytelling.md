@@ -3,7 +3,7 @@ tags: [communication, strategy]
 type: concept
 branch: 14 - Tools & Artifacts
 related: ["Product Vision", "Stakeholder Communication", "Presentation Skills"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Strategic Storytelling

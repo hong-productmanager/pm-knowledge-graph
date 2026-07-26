@@ -3,7 +3,7 @@ tags: [gtm, growth]
 type: pattern
 branch: 10 - GTM & Growth
 related: ["Feedback Loops", "Aha Moment", "Flywheel Thinking"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Growth Loops

@@ -3,7 +3,7 @@ tags: [technical, data]
 type: concept
 branch: 11 - Technical PM
 related: ["Embeddings & Vector Databases", "RAG (Retrieval Augmented Generation)", "Data Pipelines"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Vector DBs for PMs

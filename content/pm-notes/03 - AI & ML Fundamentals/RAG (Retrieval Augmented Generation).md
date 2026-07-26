@@ -3,7 +3,7 @@ tags: [ai, technical]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["Hallucination", "Embeddings & Vector Databases", "Data Pipelines"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # RAG (Retrieval Augmented Generation)

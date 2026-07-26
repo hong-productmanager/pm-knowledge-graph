@@ -3,7 +3,7 @@ tags: [strategy, concept]
 type: concept
 branch: 01 - Strategy & Vision
 related: ["Product Vision", "Competitive Landscape", "OKRs"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Product Strategy

@@ -3,7 +3,7 @@ tags: [technical, process]
 type: artifact
 branch: 11 - Technical PM
 related: ["AI PRD", "Tech Specs for PMs", "PM-Engineering Collaboration"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Technical Documentation

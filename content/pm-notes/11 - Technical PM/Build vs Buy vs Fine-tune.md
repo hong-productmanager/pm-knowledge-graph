@@ -3,7 +3,7 @@ tags: [technical, strategy]
 type: framework
 branch: 11 - Technical PM
 related: ["Model Selection Criteria", "Fine-tuning", "Cost Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Build vs Buy vs Fine-tune

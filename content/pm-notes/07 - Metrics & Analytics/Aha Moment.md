@@ -3,7 +3,7 @@ tags: [metrics, growth]
 type: concept
 branch: 07 - Metrics & Analytics
 related: ["Product Health Metrics", "Continuous Discovery", "AI Onboarding"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Aha Moment

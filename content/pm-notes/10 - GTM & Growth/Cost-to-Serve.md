@@ -3,7 +3,7 @@ tags: [gtm, commercial]
 type: metric
 branch: 10 - GTM & Growth
 related: ["Pricing AI Features", "Cost Metrics", "Inference & Latency"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Cost-to-Serve

@@ -3,7 +3,7 @@ tags: [prioritization, framework]
 type: framework
 branch: 05 - Prioritization & Roadmapping
 related: ["Product Roadmap", "Trade-off Frameworks", "RICE Prioritization"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # MoSCoW

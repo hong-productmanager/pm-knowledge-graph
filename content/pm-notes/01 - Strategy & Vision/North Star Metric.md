@@ -3,7 +3,7 @@ tags: [strategy, metrics]
 type: metric
 branch: 01 - Strategy & Vision
 related: ["OKRs", "Product Health Metrics", "Aha Moment"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # North Star Metric

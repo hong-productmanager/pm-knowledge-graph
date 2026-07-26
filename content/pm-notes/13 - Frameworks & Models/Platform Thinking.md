@@ -3,7 +3,7 @@ tags: [strategy, business]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Business Models", "Build vs Buy vs Fine-tune", "Flywheel Thinking"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Platform Thinking

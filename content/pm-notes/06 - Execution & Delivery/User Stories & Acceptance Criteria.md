@@ -3,7 +3,7 @@ tags: [execution, agile, ai]
 type: framework
 branch: 06 - Execution & Delivery
 related: ["AI PRD", "Graceful Degradation", "Confidence Indicators"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # User Stories & Acceptance Criteria

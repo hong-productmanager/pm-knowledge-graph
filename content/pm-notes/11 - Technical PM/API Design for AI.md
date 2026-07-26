@@ -3,7 +3,7 @@ tags: [technical, ai]
 type: pattern
 branch: 11 - Technical PM
 related: ["The PM Guide to APIs", "Inference & Latency", "AI Agents & Tool Use"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # API Design for AI

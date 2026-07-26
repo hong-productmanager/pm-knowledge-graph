@@ -3,7 +3,7 @@ tags: [gtm, strategy]
 type: concept
 branch: 10 - GTM & Growth
 related: ["GTM for AI Products", "Trust & Credibility", "Value vs Complexity"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Positioning AI Features

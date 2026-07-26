@@ -3,7 +3,7 @@ tags: [communication, design]
 type: concept
 branch: 14 - Tools & Artifacts
 related: ["Data Storytelling", "Product Roadmap", "Presentation Skills"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Visual Communication

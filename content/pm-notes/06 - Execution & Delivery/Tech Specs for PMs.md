@@ -3,7 +3,7 @@ tags: [execution, technical, documentation]
 type: artifact
 branch: 06 - Execution & Delivery
 related: ["AI PRD", "API Design for PMs"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Tech Specs for PMs

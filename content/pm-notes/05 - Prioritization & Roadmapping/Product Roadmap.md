@@ -3,7 +3,7 @@ tags: [prioritization, planning]
 type: artifact
 branch: 05 - Prioritization & Roadmapping
 related: ["OKRs", "MoSCoW", "Dependency Mapping"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Product Roadmap

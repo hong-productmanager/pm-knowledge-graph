@@ -3,7 +3,7 @@ tags: [responsible-ai, sustainability]
 type: concept
 branch: 08 - Responsible AI
 related: ["Cost Metrics", "Build vs Buy vs Fine-tune", "Inference & Latency"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Environmental Impact of AI

@@ -3,7 +3,7 @@ tags: [ai, technical]
 type: concept
 branch: 03 - AI & ML Fundamentals
 related: ["RAG (Retrieval Augmented Generation)", "Fine-tuning", "Hallucination"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Large Language Models (LLMs)

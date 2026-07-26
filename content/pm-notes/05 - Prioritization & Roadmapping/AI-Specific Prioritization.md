@@ -3,7 +3,7 @@ tags: [prioritization, ai]
 type: concept
 branch: 05 - Prioritization & Roadmapping
 related: ["Trade-off Frameworks", "Build vs Buy vs Fine-tune", "Model Evaluation (Offline)"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI-Specific Prioritization

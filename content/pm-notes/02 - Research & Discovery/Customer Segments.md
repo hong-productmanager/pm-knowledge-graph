@@ -3,7 +3,7 @@ tags: [research, strategy]
 type: concept
 branch: 02 - Research & Discovery
 related: ["User Personas", "Pain Points", "Product Health Metrics"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Customer Segments

@@ -3,7 +3,7 @@ tags: [ux, growth]
 type: pattern
 branch: 09 - AI UX Patterns
 related: ["Aha Moment", "Transparency to Users", "Confidence Indicators"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # AI Onboarding

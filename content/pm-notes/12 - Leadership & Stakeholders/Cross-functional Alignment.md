@@ -3,7 +3,7 @@ tags: [leadership, process]
 type: concept
 branch: 12 - Leadership & Stakeholders
 related: ["Stakeholder Communication", "Product Roadmap", "Dependency Mapping"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Cross-functional Alignment

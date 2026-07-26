@@ -3,7 +3,7 @@ tags: [strategy, framework, growth]
 type: framework
 branch: 13 - Frameworks & Models
 related: ["Trust & Credibility", "Early Adopter Strategy", "Product Strategy"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # Crossing the Chasm

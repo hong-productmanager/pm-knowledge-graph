@@ -3,7 +3,7 @@ tags: [technical, documentation]
 type: framework
 branch: 11 - Technical PM
 related: ["API Design for PMs", "AI Onboarding"]
-created: 2026-05-05
+created: 2026-07-26
 ---
 
 # The PM Guide to APIs
